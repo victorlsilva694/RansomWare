@@ -1,5 +1,5 @@
 # VLS RansomWare -> Em desenvolvimento!!
-## RamwomWare desenvolvido a fins de estudo e pesquisas!
+## RamwomWare em desenvolvimento a fins de estudo e pesquisas!
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
