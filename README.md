@@ -7,13 +7,10 @@
 
 Seja Bem vindo ao meu repositório, esse é um ramsomware que venho aprimorando cada dia mais.
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
 As [John Gruber] writes on the [Markdown site][df1]
 
 ## Como funciona?
 
-Dillinger uses a number of open source projects to work properly:
 
 - [Abertura] - Como o intuito era diversão, o usuário terá uma unica chance de adivinha o texto que está por trás do código, caso acerta estará livre de ser infectado.
 - [Errando] - Caso erre, terá seus dados encriptados, alterando não somente o nome das pastas e arquivos como também o conteudo dentro de cada um.
