@@ -11,7 +11,7 @@ Seja Bem vindo ao meu repositório, esse é um ramsomware que venho aprimorando 
 ## Como funciona?
 
 
-- [Abertura] - Como o intuito era diversão, o usuário terá uma unica chance de adivinha o texto que está por trás do código, caso acerta estará livre de ser infectado.
+- [Abertura] - Como o intuito era diversão, o usuário terá uma unica chance de adivinha o texto que está por trás do código, caso acerte estará livre de ser infectado.
 - [Errando] - Caso erre, terá seus dados encriptados, alterando não somente o nome das pastas e arquivos como também o conteudo dentro de cada um.
 - [Utilização] - Não utilizar de forma alguma esse código sem autorização, ou em sua máquina. Caso contrario será afetado.
 
