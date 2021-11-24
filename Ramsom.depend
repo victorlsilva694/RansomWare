@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1637767888 source:c:\users\victo\onedrive\Área de trabalho\ramsom\ramsom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<dirent.h>
+	<memory.h>
+
