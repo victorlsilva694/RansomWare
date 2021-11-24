@@ -21,4 +21,4 @@ git clone https://github.com/victorlsilva694/RamsomWare.git
 
 Instale as bibliotecas que faltarem no seu compilador
 
-Execute e compile o código na maquina em que deseja testar o código (Muito cuidado)
+Execute e compile o código na maquina em que deseja testar o código. (Muito cuidado)
