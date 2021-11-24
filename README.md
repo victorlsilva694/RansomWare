@@ -7,7 +7,6 @@
 
 Seja Bem vindo ao meu repositório, esse é um ramsomware que venho aprimorando cada dia mais.
 
-As [John Gruber] writes on the [Markdown site][df1]
 
 ## Como funciona?
 
